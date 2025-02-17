@@ -2,6 +2,9 @@ body {
     background-color: #1d1f2c;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url(images/betterttv-cute.gif);
+    background-size: 100px;
+    background-repeat: repeat-x;
 }
 h2 {
     color: aquamarine;
@@ -18,3 +21,7 @@ h4 {
 
 h5{color: chartreuse;}
 h6{color: aliceblue;}
+#poster {
+    margin: auto;
+    display: block;
+}
